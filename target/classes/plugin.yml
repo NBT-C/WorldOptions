@@ -1,0 +1,7 @@
+name: WorldOptions
+version: '1.0'
+main: me.nbtc.worldoptions.Main
+author: NBTC
+commands:
+  worldoptions:
+    aliases: [wo]

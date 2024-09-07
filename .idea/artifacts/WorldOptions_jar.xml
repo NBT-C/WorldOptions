@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldOptions:jar">
+    <output-path>$PROJECT_DIR$/../../../redis_server/spigot-1/plugins</output-path>
+    <root id="archive" name="WorldOptions.jar">
+      <element id="module-output" name="WorldOptions" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/serversync.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/wesjd/AnvilGUI/1.9.4-SNAPSHOT/anvilgui-1.9.4-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.10.0/commons-pool2-2.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/redis/clients/jedis/3.7.0/jedis-3.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
